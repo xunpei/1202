@@ -179,4 +179,5 @@ html {
     background: #00f; }
   .box section {
     width: 100%;
-    flex: 1; }
+    flex: 1;
+    background: #ff0; }
